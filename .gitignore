@@ -1,0 +1,7 @@
+# Secrets. Never commit these.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
